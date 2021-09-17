@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**ZakariaTo/zakariato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--**ZakariaTo/zakariato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: simple and stupid zakaria.tourabii@gmail.com
 - 😄 Pronouns: he/him/they
 - ⚡ Fun fact: if you close your eyes, u'll see nothing
--->
+
