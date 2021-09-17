@@ -3,7 +3,6 @@
 
 <!--**ZakariaTo/zakariato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a fullstack developer
 - 🌱 I’m currently learning reactive programming and architectures, and mobile app
