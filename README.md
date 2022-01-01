@@ -11,5 +11,5 @@
 - 💬 Ask me about java, spring, nodejs, react and angular
 - 📫 How to reach me: simple and stupid zakaria.tourabii@gmail.com
 - 😄 Pronouns: he/him/they
-- ⚡ Fun fact: if you close your eyes, u'll see nothing
+- ⚡ Fun fact: Nothing starts with N and ends with G
 
