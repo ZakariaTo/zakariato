@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as a fullstack developer
 - 🌱 I’m currently learning reactive programming and architectures, and mobile app
 - 👯 I’m looking to collaborate on extra complex project
-- 🤔 I’m looking for help with jenkins, spanish, cloud native...
+- 🤔 I’m looking for help with machine learning, spanish, cloud native...
 - 💬 Ask me about java, spring, nodejs, react and angular
 - 📫 How to reach me: simple and stupid zakaria.tourabii@gmail.com
 - 😄 Pronouns: he/him/they
