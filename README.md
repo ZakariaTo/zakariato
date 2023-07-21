@@ -4,12 +4,11 @@
 <!--**ZakariaTo/zakariato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- 🔭 I’m currently working as a fullstack developer
-- 🌱 I’m currently learning reactive programming and architectures, and mobile app
+- 🔭 I’m currently working as a Software Engineer.
+- 🌱 I’m currently learning devops and development best practices. 
 - 👯 I’m looking to collaborate on extra complex project
-- 🤔 I’m looking for help with machine learning, spanish, cloud native...
-- 💬 Ask me about java, spring, nodejs, react and angular
-- 📫 How to reach me: simple and stupid zakaria.tourabii@gmail.com
-- 😄 Pronouns: he/him/they
-- ⚡ Fun fact: Nothing starts with N and ends with G
+<!--**- 🤔 I’m looking for help with machine learning.-->
+- 💬 Ask me about Java, Spring, NodeJs, React and Angular.
+- 📫 How to reach me: <zakaria.tourabii@gmail.com>, [LinkedIn](linkedin.com/in/zakariato).
+- 😄 Pronouns: he/him/they.
 
