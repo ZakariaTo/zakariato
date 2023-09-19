@@ -8,6 +8,6 @@
 - 🌱 I’m currently learning devops and development best practices. 
 - 🤔 I’m looking for help with machine learning.
 - 💬 Ask me about Java, Spring, NodeJs, React and Angular.
-- 📫 How to reach me: <zakaria.tourabii@gmail.com>, [LinkedIn](linkedin.com/in/zakariato).
+- 📫 How to reach me: <zakaria.tourabii@gmail.com>, [LinkedIn](https://www.linkedin.com/in/zakariato).
 - 😄 Pronouns: he/him/they.
 
